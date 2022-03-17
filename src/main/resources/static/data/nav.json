@@ -1,0 +1,104 @@
+{
+	"expanded": true,
+	"children": [{
+		"text": "首页",
+		"leaf": true,
+		"cls": "node-link",
+		"mod": "desktop",
+		"modUrl": "desktop.Desktop"
+	},{
+		"text": "广告推广",
+		"expanded": false,
+		"cls": "node-link",
+		"children": [{
+			"text": "订单",
+			"leaf": true,
+			"cls": "node-link",
+			"mod": "order",
+			"modUrl": "order.Order"
+		}]
+	},{
+		"text": "花样文字",
+		"expanded": true,
+		"cls": "node-link",
+		"children": [{
+			"text": "文字",
+			"leaf": true,
+			"cls": "node-link",
+			"mod": "word",
+			"modUrl": "word.Word"
+		}]
+	},
+		{
+		"text": "系统管理",
+		"expanded": true,
+		"cls": "node-link",
+		"children": [{
+			"text": "字典",
+			"leaf": true,
+			"cls": "node-link",
+			"mod": "dic",
+			"modUrl": "dic.Dic"
+		}]
+	}
+
+
+
+
+		/*{
+		"text": "系统管理",
+		"expanded": true,
+		"cls": "node-link",
+		"children": [{
+			"text": "角色管理",
+			"leaf": true,
+			"cls": "node-link",
+			"mod": "role",
+			"modUrl": "role.Role"
+		}, {
+			"text": "用户管理",
+			"leaf": true,
+			"cls": "node-link",
+			"mod": "user",
+			"modUrl": "user.User"
+		}]
+	}, {
+		"text": "文章管理",
+		"expanded": true,
+		"children": [{
+			"text": "文章列表",
+			"leaf": true
+		}, {
+			"text": "发布文章",
+			"leaf": true
+		}]
+	}, {
+		"text": "产品管理",
+		"expanded": true,
+		"children": [{
+			"text": "产品列表",
+			"leaf": true
+		}, {
+			"text": "新增产品",
+			"leaf": true
+		}, {
+			"text": "产品监控",
+			"leaf": true
+		}]
+	}, {
+		"text": "报表管理",
+		"expanded": true,
+		"children": [{
+			"text": "生成报表",
+			"leaf": true
+		}, {
+			"text": "报表统计",
+			"leaf": true
+		}, {
+			"text": "报表打印",
+			"leaf": true
+		}]
+	}*/
+
+	]
+}
